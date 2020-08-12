@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testthu"
+    }
+  },
+  "defaultProject": "testthu",
+  "cli": {
+    "analytics": "cd8544b5-7594-4245-b7bc-1ceafd509158"
+  }
 }
